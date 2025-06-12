@@ -1,2 +1,2 @@
-# projetopedidodenamoro1
+# ProjetoDePedidoDeNamoro
 Esse é um projeto estudantil.
